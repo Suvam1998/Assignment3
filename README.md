@@ -1,5 +1,5 @@
 # Assignment3
-#To create a simple calculator
+**#To create a simple calculator**
 
 def add(x, y):
     return x + y
